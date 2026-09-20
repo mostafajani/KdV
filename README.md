@@ -1,6 +1,6 @@
 # CN-PINN codebase for the KdV manuscript
-
-Reference paper: "A Crank-Nicolson neural network for simulation of forward and inverse problems in nonlinear wave dynamics"  A. A. Rezapour, M. Jani.
+the code accompanies a manuscript under review
+Reference paper under review: "A Crank-Nicolson neural network for simulation of forward and inverse problems in nonlinear wave dynamics"  A. A. Rezapour, M. Jani.
 
 This directory contains ten self-contained experiment scripts plus a shared
 utilities module.  Every script produces figures, LaTeX tables and CSV data
